@@ -1,10 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+<<<<<<< HEAD
 /* 
 * {
     padding: 0;
     margin: 0;
 } */
 
+=======
+>>>>>>> origin/main
 
 body {
     background-color: #f1f1f1;
@@ -16,6 +19,7 @@ body {
 
 }
 
+<<<<<<< HEAD
 .info {
     display: flex;
     margin-bottom: 20px;
@@ -42,6 +46,10 @@ a:hover {
 
 .avatar {
     width: 250px;
+=======
+.avatar {
+    width: 200px;
+>>>>>>> origin/main
     border-radius: 28px;
     box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
 }
@@ -57,18 +65,30 @@ a:hover {
 }
 
 .container {
+<<<<<<< HEAD
     max-width: 750px;
     margin: auto;
     padding-top: 30px;
 }
 
 /* .social {
+=======
+    max-width: 600px;
+    margin: auto;
+}
+
+.social {
+>>>>>>> origin/main
     background: green;
     padding: 15px;
     border: 5px solid red;
     width: 50%;
     margin: 20px;
+<<<<<<< HEAD
 } */
+=======
+}
+>>>>>>> origin/main
 
 /* .box-model > div {
     float: left;
@@ -77,6 +97,7 @@ a:hover {
     border: 4px solid red;
     width: 25%;
     box-sizing: border-box;
+<<<<<<< HEAD
 } */
 
 /* .bg-yelow {
@@ -172,3 +193,6 @@ a:hover {
 .btn:hover {
     opacity: 0.9;
 }
+=======
+} */
+>>>>>>> origin/main
